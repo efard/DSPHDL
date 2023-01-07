@@ -14,4 +14,4 @@ And by running QPSK project, the result will be simillar to Fig.2
 
 ![QPSK - Copy](https://user-images.githubusercontent.com/43655559/211168743-a3b0d0b6-71ed-44e7-ad60-0bdbddcd8d0a.png)
 
-NB: If you find this project useful, I will be appreciated it if you cite this page.
+NB: If you find this project useful, I will be appreciated it if you cite this page and give it a star :)
