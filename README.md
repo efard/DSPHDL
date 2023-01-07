@@ -10,4 +10,8 @@ By running BPSK project, you will see the results similar to Fig.1
 
 ![BPSK - Copy](https://user-images.githubusercontent.com/43655559/207133471-e31dbfcb-42a8-4a80-b342-2e6bb85c07c3.png)
 
+And by running QPSK project, the result will be simillar to Fig.2
+
+![QPSK - Copy](https://user-images.githubusercontent.com/43655559/211168743-a3b0d0b6-71ed-44e7-ad60-0bdbddcd8d0a.png)
+
 NB: If you find this project useful, I will be appreciated it if you cite this page.
