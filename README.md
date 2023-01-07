@@ -2,7 +2,7 @@
 
 # Introduction
 The aim of this project is using VHDL for Digital Signal Processing (DSP) applications. In this repo, we will learn how to generate some prevalent modulations. You can download the whole project from repository and try your desired setting (e.g. output frequency, bitwidth, etc.).
-For more information on Phase-shift keying please visit here:
+:-For more information on Phase-shift keying please visit here:
 https://en.wikipedia.org/wiki/Phase-shift_keying
 
 # Prerequisites
