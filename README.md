@@ -36,4 +36,4 @@ If you finish the stages in order, you will see the following simulation:
 ![BPSK_VIVADO_21_Waveform](https://user-images.githubusercontent.com/43655559/220719483-0bf9745e-87f1-4553-a522-59bff4ca48f6.png)
 
 
-NB: If you find this project useful, I will be appreciated it if you cite this page and give it a star :)
+# NB: If you find this project useful, I will be appreciated it if you cite this page and give it a star :)
