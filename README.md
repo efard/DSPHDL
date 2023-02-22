@@ -26,7 +26,11 @@ Please pay attention:
 - To prevent from confusing, it is recommended running tcl file "section by section" in Tcl Console.
 - Location addresses of files may be different from yours.
 - PC configuration may be different from yours (Mine had 12 cores).
-
+ 
+By running .tcl file, you will have a Bock Design similar to:
+ 
+![BPSK_VIVADO_21_Block_Design](https://user-images.githubusercontent.com/43655559/220721557-81bbe3c7-9019-478a-a28f-d83bdd75cbb9.png)
+ 
 If you finish the stages in order, you will see the following simulation:
  
 ![BPSK_VIVADO_21_Waveform](https://user-images.githubusercontent.com/43655559/220719483-0bf9745e-87f1-4553-a522-59bff4ca48f6.png)
