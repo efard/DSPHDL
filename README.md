@@ -2,9 +2,7 @@
 
 # Introduction
 This project aims to use VHDL for Digital Signal Processing (DSP) applications. In this repo, we will learn how to generate some prevalent modulations. You can download the whole project from repository and try your desired setting (e.g. output frequency, bit-width, etc.).\
-For more information on Phase-shift keying please visit here:
-https://en.wikipedia.org/wiki/Phase-shift_keying  
-and for LFM (Linear Frequency Modulation) here: https://en.wikipedia.org/wiki/Chirp
+For more information on Phase-shift keying please visit [here](https://en.wikipedia.org/wiki/Phase-shift_keying), and for LFM (Linear Frequency Modulation) [here](https://en.wikipedia.org/wiki/Chirp):
 
 # Prerequisites
 Xilinx ISE, ModelSim SE, Vivado softwares
