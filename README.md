@@ -19,7 +19,7 @@ And by running the QPSK project, the result will be similar to Fig.2
 # BPSK and QPSK Outputs of Vivado
 Please pay attention:
 
-- My Vivado version was 2021.1.
+- You may need to change the Vivado version according to yours.
 - After the project folder is created from the tcl file, copy the "BPSK_Selector_21" folder to it.
 - To prevent confusion, it is recommended to run the TCL file "section by section" in TCL Console.
 - Location addresses of files may be different from yours.
