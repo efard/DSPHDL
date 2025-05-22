@@ -29,12 +29,12 @@ By running the .tcl file, you will have a Bock Design similar to the:
  
 ![BPSK_VIVADO_21_Block_Design](https://user-images.githubusercontent.com/43655559/220721557-81bbe3c7-9019-478a-a28f-d83bdd75cbb9.png)
  
-If you finish the stages in order, you will see the following simulation:
+If you finish the stages in order, you will see the following simulation for BPSK:
  
 ![BPSK_VIVADO_21_Waveform](https://user-images.githubusercontent.com/43655559/220719483-0bf9745e-87f1-4553-a522-59bff4ca48f6.png)
 
 # LFM Outputs of Vivado
-By running the BPSK project, you will see results similar to this:
+By running the LFM project, you will see results similar to this:
 
 ![Screenshot from 2024-02-18 18-31-08](https://github.com/efard/DSPHDL/assets/43655559/63bad7f7-bdac-424f-b253-1de718cc45c5)
 
